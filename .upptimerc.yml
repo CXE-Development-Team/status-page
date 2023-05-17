@@ -1,5 +1,5 @@
-owner: cxe-development-team
-repo: status-page
+owner: "cxe-development-team"
+repo: "status-page"
 
 sites:
   - name: "Free - Panel"
