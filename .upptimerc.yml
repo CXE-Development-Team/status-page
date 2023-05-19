@@ -2,11 +2,13 @@ owner: "cxe-development-team"
 repo: "status-page"
 
 sites:
+  - name: "Free - Client"
+    url: https://client.cxe.my.id/
   - name: "Free - Panel"
     url: https://portal.cxe.my.id/
-  - name: "Free - Node SG 1"
+  - name: "Free - Node US 1"
     check: "tcp-ping"
-    url: sg1.cxe.my.id
+    url: us1.cxe.my.id
     port: 8080
   - name: "Paid - Panel"
     url: https://panelcxe.hexagonn.my.id/
