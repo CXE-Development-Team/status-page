@@ -6,11 +6,11 @@ sites:
     url: https://dash.cxe.my.id/
   - name: "Free - Panel"
     url: https://portal.cxe.my.id/
-  - name: "Free - Node SG 1"
+  - name: "Free - Node SG 2"
     check: "tcp-ping"
     url: free-sg2.cxe.my.id
     port: 8080
-  - name: "Paid (new) - Node SG 1"
+  - name: "Paid (new) - Node SG 2"
     check: "tcp-ping"
     url: paid-sg2.cxe.my.id
     port: 8080
