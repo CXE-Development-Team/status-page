@@ -8,11 +8,11 @@ sites:
     url: https://portal.cxe.my.id/
   - name: "Free - Node SG 1"
     check: "tcp-ping"
-    url: free-sg1.cxe.my.id
+    url: free-sg2.cxe.my.id
     port: 8080
   - name: "Paid (new) - Node SG 1"
     check: "tcp-ping"
-    url: paid-sg1.cxe.my.id
+    url: paid-sg2.cxe.my.id
     port: 8080
   - name: "Paid - Panel"
     url: https://panelcxe.hexagonn.my.id/
