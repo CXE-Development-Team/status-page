@@ -38,9 +38,9 @@ status-website:
     - rel: stylesheet
       href: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
   navbar:
-    - title: Free - Panel
+    - title: Free - Panel ( Soon )
       href: https://portal.cxe.my.id/
-    - title: Paid - Panel
+    - title: Paid - Panel ( Soon )
       href: https://paidcxe.hexagonn.my.id/
 
 i18n:
