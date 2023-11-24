@@ -2,10 +2,10 @@ owner: "cxe-development-team"
 repo: "status-page"
 
 sites:
-  - name: "Soon"
+  - name: "Dashboard ( Soon )"
     url: https://www.youtube.com/
   - name: "Free - Panel ( Soon )"
-    url: https://portal.cxe.my.id/
+    url: https://status.cxe.my.id/
   - name: "Free - Node SG 2 ( Soon )"
     check: "tcp-ping"
     url: free-sg2.cxe.my.id
