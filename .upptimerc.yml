@@ -29,9 +29,9 @@ status-website:
   cname: status.cxe.my.id
   logoUrl: https://cdn.discordapp.com/icons/1106459111274594324/a_de6709655f7d2091cca473d62a7ddcba.gif
   favicon: https://cdn.discordapp.com/icons/1106459111274594324/a_de6709655f7d2091cca473d62a7ddcba.gif
-  name: CxeCloud
-  introTitle: "**CxeCloud** for monitoring."
-  introMessage: "Welcome to CxeCloud Status!"
+  name: Cxe
+  introTitle: "**Cxe** for monitoring."
+  introMessage: "Welcome to Cxe Status!"
   theme: night
   css: 'nav{animation:1s ease-in-out fadeInDown}main{animation:1s ease-in-out fadeIn}'
   links:
