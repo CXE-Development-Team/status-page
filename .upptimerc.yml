@@ -2,8 +2,8 @@ owner: "cxe-development-team"
 repo: "status-page"
 
 sites:
-  - name: "Dashboard ( Soon )"
-    url: https://www.youtube.com/
+  - name: "Dashboard"
+    url: https://www.cxe.my.id/
   - name: "Free - Panel ( Soon )"
     url: https://status.cxe.my.id/
   - name: "Free - Node SG 2 ( Soon )"
